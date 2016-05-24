@@ -1,0 +1,51 @@
+/* font-family: "PTSerifRegular"; */
+@font-face {
+    font-family: "PTSerif";
+    src: url("../fonts/PTSerifRegular/PTSerifRegular.eot");
+    src: url("../fonts/PTSerifRegular/PTSerifRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/PTSerifRegular/PTSerifRegular.woff") format("woff"),
+    url("../fonts/PTSerifRegular/PTSerifRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+/* font-family: "PTSerifBoldItalic"; */
+@font-face {
+    font-family: "PTSerif";
+    src: url("../fonts/PTSerifBoldItalic/PTSerifBoldItalic.eot");
+    src: url("../fonts/PTSerifBoldItalic/PTSerifBoldItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/PTSerifBoldItalic/PTSerifBoldItalic.woff") format("woff"),
+    url("../fonts/PTSerifBoldItalic/PTSerifBoldItalic.ttf") format("truetype");
+    font-style: italic;
+    font-weight: 700;
+}
+/* font-family: "PTSerifItalic"; */
+@font-face {
+    font-family: "PTSerif";
+    src: url("../fonts/PTSerifItalic/PTSerifItalic.eot");
+    src: url("../fonts/PTSerifItalic/PTSerifItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/PTSerifItalic/PTSerifItalic.woff") format("woff"),
+    url("../fonts/PTSerifItalic/PTSerifItalic.ttf") format("truetype");
+    font-style: italic;
+    font-weight: 400;
+}
+/* font-family: "PTSerifBold"; */
+@font-face {
+    font-family: "PTSerif";
+    src: url("../fonts/PTSerifBold/PTSerifBold.eot");
+    src: url("../fonts/PTSerifBold/PTSerifBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/PTSerifBold/PTSerifBold.woff") format("woff"),
+    url("../fonts/PTSerifBold/PTSerifBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+
+/* font-family: "YesevaOneRegular"; */
+@font-face {
+    font-family: "YesevaOne";
+    src: url("../fonts/YesevaOneRegular/YesevaOneRegular.eot");
+    src: url("../fonts/YesevaOneRegular/YesevaOneRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/YesevaOneRegular/YesevaOneRegular.woff") format("woff"),
+    url("../fonts/YesevaOneRegular/YesevaOneRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
